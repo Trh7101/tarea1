@@ -15,7 +15,7 @@
       "function": {
         "tarea1ae109afa": {
           "deploymentBucketName": "amplify-tarea1-dev-210303-deployment",
-          "s3Key": "amplify-builds/tarea1ae109afa-35727a53516f6a6d3476-build.zip"
+          "s3Key": "amplify-builds/tarea1ae109afa-744730722f574c662b39-build.zip"
         }
       },
       "api": {
