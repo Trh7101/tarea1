@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Amplify, { API } from 'aws-amplify';
 
-const myAPI = "";
+const myAPI = "api109d583c";
 const myPath = "/items";
 
 function App() {
