@@ -1,0 +1,43 @@
+{
+  "api": {
+    "api109d583c": {
+      "dependsOn": [
+        {
+          "attributes": [
+            "Name",
+            "Arn"
+          ],
+          "category": "function",
+          "resourceName": "tarea1ae109afa"
+        }
+      ],
+      "providerPlugin": "awscloudformation",
+      "service": "API Gateway"
+    }
+  },
+  "function": {
+    "tarea1ae109afa": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_function_tarea1ae109afa_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "tarea1ae109afa"
+        }
+      ]
+    },
+    "AMPLIFY_function_tarea1ae109afa_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "tarea1ae109afa"
+        }
+      ]
+    }
+  }
+}

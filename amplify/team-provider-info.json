@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tarea1-dev-210303-authRole",
+      "UnauthRoleArn": "arn:aws:iam::154625373258:role/amplify-tarea1-dev-210303-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::154625373258:role/amplify-tarea1-dev-210303-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tarea1-dev-210303-deployment",
+      "UnauthRoleName": "amplify-tarea1-dev-210303-unauthRole",
+      "StackName": "amplify-tarea1-dev-210303",
+      "StackId": "arn:aws:cloudformation:us-east-1:154625373258:stack/amplify-tarea1-dev-210303/d119fdf0-0996-11ee-ba7c-0a57be99402f",
+      "AmplifyAppId": "d2koq5g17pfvgt"
+    },
+    "categories": {
+      "function": {
+        "tarea1ae109afa": {
+          "deploymentBucketName": "amplify-tarea1-dev-210303-deployment",
+          "s3Key": "amplify-builds/tarea1ae109afa-35727a53516f6a6d3476-build.zip"
+        }
+      },
+      "api": {
+        "api109d583c": {}
+      }
+    }
+  }
+}
